@@ -1,0 +1,13 @@
+:: files ::
+Bell_Tutorial.qs
+:: references ::
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Canon.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Canon.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.MetaData.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Primitives.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Common.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Core.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Simulators.dll
+D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll
+:: command ::
+"D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\build\..\tools\qsc\qsc.exe" --input "Bell_Tutorial.qs" --references "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Canon.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Canon.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.MetaData.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Primitives.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Common.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Core.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\lib\net461\Microsoft.Quantum.Simulation.Simulators.dll" "D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll" --outputpath obj\qsharp\src\

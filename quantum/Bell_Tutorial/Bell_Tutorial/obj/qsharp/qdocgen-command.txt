@@ -1,0 +1,4 @@
+:: files ::
+Bell_Tutorial.qs
+:: command ::
+"D:\users\bgrant2\vstudio\quantum\Bell_Tutorial\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\build\..\tools\qdocgen\docgen.exe" --input "Bell_Tutorial.qs" --doc-output obj\qsharp\docs\
